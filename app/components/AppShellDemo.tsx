@@ -10,7 +10,6 @@ import {
   Burger,
   useMantineTheme,
 } from "@mantine/core";
-import { NavbarMinimal } from "./Links";
 
 export default function AppShellDemo({
   children,
@@ -31,16 +30,6 @@ export default function AppShellDemo({
       }}
       navbarOffsetBreakpoint="sm"
       asideOffsetBreakpoint="sm"
-      navbar={
-        <Navbar
-          p="md"
-          hiddenBreakpoint="sm"
-          hidden={!opened}
-          width={{ sm: 200, lg: 300 }}
-        >
-          <Text>Application navbar</Text>
-        </Navbar>
-      }
       header={
         <Header height={70} p="md">
           <div

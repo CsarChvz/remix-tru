@@ -1582,13 +1582,6 @@
     "@radix-ui/react-scroll-area" "1.0.0"
     react-textarea-autosize "8.3.4"
 
-"@mantine/ds@^5.5.0":
-  version "5.5.0"
-  resolved "https://registry.yarnpkg.com/@mantine/ds/-/ds-5.5.0.tgz#1172048235193681e3f987c0a0ab00386aab50ef"
-  integrity sha512-EdRNumpSPaWW0bkpMjVNwVoKaYuVt019G9xW0dXPKFjwmHrCBxCa3UNWn0siNTVgEYmdiqTSZC/cpI8nar+QeQ==
-  dependencies:
-    "@mantine/utils" "5.5.0"
-
 "@mantine/hooks@5.2.6":
   version "5.2.6"
   resolved "https://registry.yarnpkg.com/@mantine/hooks/-/hooks-5.2.6.tgz#782a96aacd55fc7a540f5c55bee7046d6f684251"
@@ -1622,11 +1615,6 @@
   version "5.2.6"
   resolved "https://registry.yarnpkg.com/@mantine/utils/-/utils-5.2.6.tgz#7423fb8533cd22f7dcb4de6823e5a936f4b0b7af"
   integrity sha512-5YGfdHPxYgyjl/0/HhIE0/AVJjx+cTh/7OMSMhznPmCjpfvZFkFWUwht12YnRmhfPT9RwK6BuWe+O34kAIfW8Q==
-
-"@mantine/utils@5.5.0":
-  version "5.5.0"
-  resolved "https://registry.yarnpkg.com/@mantine/utils/-/utils-5.5.0.tgz#bceb8a0da64a4ace5ff56b2aa169c1c5f532bfe8"
-  integrity sha512-Ej+hYfu49faFV6velJlFWLb/ErrcM3dzgYhzRPFcMpx+HZHUheTUtthFOicieGbHBd1lPXprSkMHd3UaddfY/w==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -1947,11 +1935,6 @@
   integrity sha512-4BAffykYOgO+5nzBWYwE3W90sBgLJoUPRWWcL8wlyiM8IB8ipJz3UMJ9KXQd1RKQXpKp8Tutn80HZtWsu2u76w==
   dependencies:
     defer-to-connect "^2.0.0"
-
-"@tabler/icons@^1.101.0":
-  version "1.101.0"
-  resolved "https://registry.yarnpkg.com/@tabler/icons/-/icons-1.101.0.tgz#fc0bbcf55878a858c89a492d9900cdb0b8488a62"
-  integrity sha512-3DXsgQRpxSMQMNGQbFndYWPGNlxRKnl3I1p11i7kT6eEJTY2Noc7J37gg25MoxVIs57m+fUI6Qux1X7i9fiobw==
 
 "@testing-library/dom@^8.11.1":
   version "8.13.0"
